@@ -1,1 +1,5 @@
-# Codefundo-
+We want build an android app with following 2 features in it(We decided to include these 2 features because of our personal experiences with natural disasters)-
+1. 
+What would you do if earthquake strikes now?? If it is our first time most of us would panick or doubt ourself if it really an earthquake. Similarly for other natural disasters we have figured that most of us dont know how to respond and there are so many small small things which if we are aware of them will help us make better choices in the face of calamity. We plan to have interactive learning modules in the form of questions,scenarios, DO YOU KNOW facts etc..for all natural disasters.We plan to plan the modules in such a way that it will mostly take half an hour to go through these learning modules but once a person goes through these modules we believe that he will be able to perform much better in case of natural disaster than the person who has not gone through it- This is the ultimate aim for us.These modules are for everyone but we are mainly aiming for age group 5 to 15 i.e for school students.
+2.
+In natural disasters the helpline numbers are very busy.We plan to build a chat bot in our app, which will take user's message and deliver to concerned authorities and will ensure that user gets to hear back from them. The user can send message via text, voice or video.
